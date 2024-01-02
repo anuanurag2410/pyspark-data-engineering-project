@@ -3,7 +3,9 @@ Google Playstore Dataset Analysis
 
 
 Step1 --> Downloaded the Dataset from Kaggle of Google Playstore 
+
 Step2 --> Created Databricks Community account to Process Data using Spark
+
 Step3 --> Imported the Required PySpark libraries
 Step4 --> Uploaded the Dataset using Add Data option in DataBricks.
 Step5 --> Loaded the Dataset to DataFrame using PySpark
